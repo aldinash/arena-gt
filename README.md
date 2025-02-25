@@ -1,7 +1,9 @@
 # arena-gt
-I completed all the exercises in the notebook 0.
-I completed all the exercises above traingulation in the notebook 1.
-I completed all the exercises above bonus parts (feature extraction and cnn from scratch)
+
+Finished parts:
+- prereqs: all the exercises
+- ray tracing: all the exercises above traingulation
+- CNNs: all the exercises above bonus parts (feature extraction and cnn from scratch)
 
 Notebooks can be found here or by the links below.
 
